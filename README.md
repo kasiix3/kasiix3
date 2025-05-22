@@ -39,7 +39,9 @@ Axelos ITILv4 Foundation Level Certification | March 2022
 CompTIA A+ | November 2021
 
 
+
 📫 How to reach me kasandra.kleespie@gmail.com
-/n
+
+
 👀 Let's connect on LinkedIn: https://www.linkedin.com/in/kasandrakleespie/
 
