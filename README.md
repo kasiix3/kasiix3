@@ -40,5 +40,6 @@ CompTIA A+ | November 2021
 
 
 📫 How to reach me kasandra.kleespie@gmail.com
+/n
 👀 Let's connect on LinkedIn: https://www.linkedin.com/in/kasandrakleespie/
 
