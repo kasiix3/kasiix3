@@ -10,8 +10,11 @@ I'm a Lead Application Systems Developer II with expertise in Systems Developmen
 🎓 I hold:
 
 🐾 Associate's Degree in Veterinary Technology
+
 👩🏻‍💻 Bachelor's Degree in Computer Science - Software Development
+
 🎓 Master's Degree in IT Management
+
 
 My passion lies as a Subject Matter Expert in the Atlassian Suite and leading my team to successful development to meet organizational and client needs.
 
