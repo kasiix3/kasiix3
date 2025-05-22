@@ -21,6 +21,7 @@ My passion lies as a Subject Matter Expert in the Atlassian Suite and leading my
 
 
 🏆 Certifications
+
 Atlassian ACP-120 Jira Administration for Cloud | October 2024
 
 Power Platform Fundamentals | January 2023
