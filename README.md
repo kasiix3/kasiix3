@@ -22,10 +22,15 @@ My passion lies as a Subject Matter Expert in the Atlassian Suite and leading my
 
 🏆 Certifications
 Atlassian ACP-120 Jira Administration for Cloud | October 2024
+
 Power Platform Fundamentals | January 2023
+
 CompTIA Project+ Certification | March 2022
+
 Axelos ITILv4 Foundation Level Certification | March 2022
+
 CompTIA A+ | November 2021
+
 
 📫 How to reach me kasandra.kleespie@gmail.com
 👀 Let's connect on LinkedIn: https://www.linkedin.com/in/kasandrakleespie/
