@@ -1,10 +1,13 @@
 👋 Hi, I’m Kas!
 
+
 🚀 About Me
 
 I'm a Lead Application Systems Developer II with expertise in Systems Development (Atlassian and Microsoft Suites) and IT Management.
 
+
 📜 Currently Studying
+
 
 
 🎓 I hold:
